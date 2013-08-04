@@ -1,7 +1,7 @@
 // xCGI
 // Routines for the Common Gateway Interface used with http.
 //
-// Aaron Abelard / aaron@abelard.com 
+// Aaron Abelard 
 //
 // date__ who_____ what
 // 960927 aaron    start
